@@ -1,4 +1,5 @@
-# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+# Fullstack Notion Clone: Tailwind CSS, Next.js 13, React, Convex
+---------------------------------------------------------------------
 
 - Real-time database  🔗 
 - Notion-style editor 📝 
