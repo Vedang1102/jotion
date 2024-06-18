@@ -26,7 +26,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
+git clone https://github.com/Vedang1102/jotion.git
 ```
 
 ### Install packages
